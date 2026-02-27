@@ -1,2 +1,2 @@
 # git-demo
-this is first class
+this is first class.
